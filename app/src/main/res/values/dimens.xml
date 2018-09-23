@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boxCWidth">80dp</dimen>
+    <dimen name="gpaSize">25dp</dimen>
+    <dimen name="marginTop">20</dimen>
+</resources>

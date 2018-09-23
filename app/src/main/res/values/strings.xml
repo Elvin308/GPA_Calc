@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_Marte13_Calculator</string>
+    <string name="classText">Class:</string>
+    <string name="creditText">Credits:</string>
+    <string name="gradeText">Grade:</string>
+    <string name="hinText">Name of course</string>
+    <string name="gpa">Your GPA</string>
+    <string name="btn_string">Compute GPA</string>
+    <string name="clear">Clear</string>
+
+</resources>
